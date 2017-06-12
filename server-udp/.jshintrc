@@ -1,0 +1,7 @@
+{
+  "predef": ["angular"],
+  "-W014": false,
+  "laxcomma":true,
+  "esversion":6,
+  "node":true
+}
